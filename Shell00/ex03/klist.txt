@@ -1,0 +1,6 @@
+Credentials cache: API:1424450
+        Principal: joguntij@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 19 14:52:24 2019  Nov 20 00:52:25 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 19 14:55:01 2019  Nov 20 00:52:25 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
