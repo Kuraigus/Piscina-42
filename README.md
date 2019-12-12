@@ -1,6 +1,6 @@
 # Piscine 42 Sao Paulo
 
-Git repository to post all the code made in the C bootcamp by 42 Sao Paulo.
+Git repository to post all the code made in the C bootcamp by 42 Sao Paulo 11/16/2019 - 12/13/2019.
 
 ## Skills developed during piscine
 
